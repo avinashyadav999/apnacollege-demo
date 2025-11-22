@@ -1,2 +1,4 @@
 # apnacollege-demo
-this is my first repo by apna college
+This is my first repo by apna college
+Author- Avinash Yadav
+
