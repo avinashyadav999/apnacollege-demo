@@ -1,5 +1,5 @@
 # apnacollege-demo
 This is my first repo by apna college
 <br>
-Author- Avinash Yadav
+Author- Avinash (ahir)
 
